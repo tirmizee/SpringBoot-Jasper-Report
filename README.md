@@ -1,6 +1,6 @@
 # SpringBoot-Jasper-Report
 
-JASPERREPORTS เป็นเครื่องมือทำรายงานสำหรับ Java
+JASPERREPORTS เป็นเครื่องมือทำรายงานโอเพ่นซอร์สสำหรับ Java
 
 ### Lifecycle of JasperReports
 
