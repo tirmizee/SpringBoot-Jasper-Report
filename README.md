@@ -4,6 +4,10 @@ JASPERREPORTS เป็นเครื่องมือทำรายงาน
 
 ### Lifecycle of JasperReports
 
+![chapter2_1](https://user-images.githubusercontent.com/15135199/89733503-25056100-da80-11ea-9097-7324beb2fb61.png)
+
+
+cr.http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report/
 
 #### Image Expression
 
