@@ -14,6 +14,10 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 ### Default Parameters
 
+| Parameter | Description |
+| ------------- | ---------------|
+| APDU_SELECT |{0, -92, 4, 0, 8, -96, 0, 0, 0, 84, 72, 0, 1}  |
+
 #### Image Expression
 
 - java.lang.String 
