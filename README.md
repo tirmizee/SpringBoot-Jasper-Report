@@ -16,7 +16,25 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 | Parameter | Description |
 | ------------- | ---------------|
-| APDU_SELECT |{0, -92, 4, 0, 8, -96, 0, 0, 0, 84, 72, 0, 1}  |
+| REPORT_CONTEXT |  |
+| REPORT_PARAMETERS_MAP |  |
+| JASPER_REPORT |  |
+| REPORT_CONNECTION |  |
+| REPORT_MAX_COUNT |  |
+| REPORT_DATA_SOURCE |  |
+| REPORT_SCRIPTLET |  |
+| REPORT_LOCALE |  |
+| REPORT_RESOURCE_BOUNDLE |  |
+| REPORT_TIME_ZONE |  |
+| REPORT_FORMAT_FACTORY |  |
+| REPORT_CLASS_LOADER |  |
+| REPORT_URL_HANDLER_FACTORY |  |
+| REPORT_FILE_RESOLVER |  |
+| REPORT_TEMPLATES |  |
+| SORT_FIELDS |  |
+| FILTER |  |
+| REPORT_VIRTUALIZER |  |
+| IS_IGNORE_PAGINATION |  |
 
 #### Image Expression
 
