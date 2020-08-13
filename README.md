@@ -38,3 +38,6 @@ Right-click a jrxml file and select "Dataset and Query"
 
 in Filter expression tab, enter the desired condition.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/90113248-41084b80-dd7b-11ea-8215-f8e3304dfa0d.JPG" width="500">
+</p>
