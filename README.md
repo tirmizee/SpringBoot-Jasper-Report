@@ -13,7 +13,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 ### Report Bands
 
  - #### Title
-         คือส่วนที่สร้างขึ้นเพียงครั้งเดียวของ Report
+         คือส่วนที่สร้างขึ้นเพียงครั้งเดียวที่จุดเริ่มต้นของรายงาน
 
 ### Default Parameters
 
