@@ -27,3 +27,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 - java.awt.Image
 
 - net.sf.jasperreports.engine.JRRenderable
+
+### Example Filter
+
+Right-click a jrxml file and select "Dataset and Query"
