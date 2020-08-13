@@ -30,13 +30,13 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 ### Example Filter
 
-Right-click a jrxml file and select "Dataset and Query"
+คลิกขวาที่ไฟล์หลักและเลือก "Dataset and Query"
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/15135199/90112516-4a44e880-dd7a-11ea-901c-70cb12a2a193.JPG" width="500">
 </p>
 
-in Filter expression tab, enter the desired condition.
+ในแท๊ป Filter expression ระบุเงื่อนไขที่ต้องการ
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/15135199/90113248-41084b80-dd7b-11ea-8215-f8e3304dfa0d.JPG" width="500">
