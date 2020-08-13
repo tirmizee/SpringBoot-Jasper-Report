@@ -34,7 +34,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 | REPORT_CONTEXT |  |
 | REPORT_PARAMETERS_MAP |  |
 | JASPER_REPORT |  |
-| REPORT_CONNECTION |  JDBC connection ส่งไปยังรายงานเพิ่อทำการสร้าง SQL Query ในตัวรายงาน|
+| REPORT_CONNECTION | JDBC connection ที่ส่งไปยังรายงานเพิ่อทำการสร้าง SQL Query ในตัวรายงาน|
 | REPORT_MAX_COUNT | ใช้เพื่อจำกัดจำนวน record ที่แสดงในรายงาน หากไม่ระบุ no limit  |
 | REPORT_DATA_SOURCE | Data source ที่ใช้โดยรายงานเมื่อไม่ได้ใช้ JDBC connection |
 | REPORT_SCRIPTLET |  |
