@@ -37,6 +37,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
  - #### Group Header
  - #### Group Footer
  - #### Column Footer
+         คือส่วนที่จะปรากฏด้านล่างส่วนรายละเอียด(Detail)ในแต่ละหน้า
  - #### Page Footer
  - #### Last Page Footer
  - #### Summary
