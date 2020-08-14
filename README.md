@@ -43,7 +43,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
  - #### Last Page Footer
  - #### Summary
  - #### Background
-
+ - #### No Data
 โดยเราสามารถเลือกใช้ได้ตามที่จำเป็น
 
 ### Default Parameters
