@@ -57,6 +57,8 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 - #### $F{FIELD}
 
+      อ้างถึงฟิลด์ชื่อ FIELD
+
 - #### $V{VAR}
 
 - #### $P{PARAM}
