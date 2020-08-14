@@ -61,12 +61,20 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 - #### $V{VAR}
 
+      อ้างถึงตัวแปรชื่อ VAR
+
 - #### $P{PARAM}
+
+      อ้างถึงพารามิเตอร์ชื่อ PARAM 
 
 - #### $P!{PARAM}
 
+      อ้างถึงพารามิเตอร์ชื่อ PARAM 
+
 - #### $R{keyName}
 
+      ดึงข้อความสตริง โดยใช้โดยใช้คีย์ keyName จาก Resource bundle ที่ส่งเข้ามา
+ 
 #### Image Expression Type
 
 - java.lang.String 
