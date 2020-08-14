@@ -51,6 +51,10 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 | REPORT_VIRTUALIZER |  |
 | IS_IGNORE_PAGINATION |  |
 
+### Expressions 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expressions เป็นคุณสมบัติหลักของ JasperReports เป็นกลไกที่ช่วยในการจัดการและแสดงข้อมูลรายงาน
+
 #### Image Expression Type
 
 - java.lang.String 
