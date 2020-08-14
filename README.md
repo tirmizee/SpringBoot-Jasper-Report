@@ -44,6 +44,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
  - #### Summary
  - #### Background
 
+โดยเราสามารถเลือกใช้ได้ตามที่จำเป็น
 
 ### Default Parameters
 
