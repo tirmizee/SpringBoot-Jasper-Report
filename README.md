@@ -32,6 +32,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
          isSummaryWithPageHeaderAndFooter="false"
  - #### Column Header
          คือส่วนหัวของคอลัมน์จะแสดงก่อนแถบรายละเอียดในแต่ละหน้า
+ - #### Detail
  - #### Group Header
  - #### Group Footer
  - #### Column Footer
