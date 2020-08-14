@@ -118,6 +118,8 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 - XML, CSV, JSON 
 
+- Empty
+
 ### Example Filter
 
 คลิกขวาที่ไฟล์หลักและเลือก "Dataset and Query"
