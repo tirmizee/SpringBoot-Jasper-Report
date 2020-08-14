@@ -11,6 +11,8 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 #### 1. Design (.jrxml)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ขั้นตอนแรกคือการสร้างไฟล์ .jrxml ซึ่งเป็นข้อมูลรูปแบบ xml อย่างง่าย
+
 #### 2. Compile (.jasper)
 
 #### 3. Execution (.jrprint)
