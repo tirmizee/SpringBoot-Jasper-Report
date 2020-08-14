@@ -7,6 +7,8 @@
 
 ![chapter2_1](https://user-images.githubusercontent.com/15135199/89733503-25056100-da80-11ea-9097-7324beb2fb61.png)
 
+CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report/
+
 #### 1. Design (.jrxml)
 
 #### 2. Compile (.jasper)
@@ -14,8 +16,6 @@
 #### 3. Execution (.jrprint)
 
 #### 4. Export (.pdf, .xls, .docs)
-
-CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report/
 
 ### Report Bands
 
