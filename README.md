@@ -13,7 +13,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 #### 1. Design (.jrxml)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ขั้นตอนแรกคือการสร้างไฟล์ .jrxml เป็นข้อมูลรูปแบบ xml อย่างง่าย ซึ่งจะกำหนดโครงร่างรายงานของเราว่าจะมีหน้าตารายงานเป็นยังไงบ้าง คล้ายๆกับไฟล์ html ที่กำหนดหน้าตาของ web เพียงแต่เราไม่ได้เอาไฟล์ jrxml ไปใช้โดยโดยตรงเหมือน html เลย ต้องผ่านขั้นตอนต่างๆของJasper ก่อน ซึ่งจะมี Tool สำหรับสร้างไฟล์ .jrxml เช่น JasperSoft หรือ IReport
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ขั้นตอนแรกคือการสร้างไฟล์ .jrxml เป็นข้อมูลรูปแบบ xml อย่างง่าย ซึ่งจะกำหนดโครงร่างรายงานของเราว่าจะมีหน้าตารายงานเป็นยังไงบ้าง คล้ายๆกับไฟล์ html ที่กำหนดหน้าตาของ web เพียงแต่เราไม่ได้เอาไฟล์ jrxml ไปใช้โดยโดยตรงเหมือน html จะต้องผ่านขั้นตอนต่างๆของ Jasper ก่อน ซึ่งจะมี Tool สำหรับสร้างไฟล์ .jrxml เช่น JasperSoft หรือ IReport
 
 #### 2. Compile (.jasper)
 
