@@ -37,7 +37,8 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
  - #### Group Header
  - #### Group Footer
  - #### Column Footer
-         คือส่วนที่จะปรากฏด้านล่างส่วนรายละเอียด(Detail)ในแต่ละหน้า
+         คือส่วนที่จะปรากฏด้านล่างส่วนรายละเอียด(Detail)ในแต่ละหน้า สามารถเปลี่ยนเป็นส่วนรายละเอียดสุดท้ายได้โดยการตั้งค่าแอตทริบิวต์
+         isFloatColumnFooter="true"
  - #### Page Footer
  - #### Last Page Footer
  - #### Summary
