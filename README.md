@@ -31,8 +31,9 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
          คือส่วนหัวเรื่อง(Header)ที่แสดงในจุดเริ่มต้นของแต่ล่ะหน้า ไม่รวมกับ Title และ Summary หาก Report เรามี 10 หน้า มันก็จะแสดงส่วนหัวเรื่องทั้ง 10 หน้า 
          isSummaryWithPageHeaderAndFooter="false"
  - #### Column Header
-         คือส่วนหัวของคอลัมน์จะแสดงก่อนแถบรายละเอียดในแต่ละหน้า
+         คือส่วนหัวของคอลัมน์จะแสดงก่อนส่วนรายละเอียดในแต่ละหน้า
  - #### Detail
+         คือส่วนรายละเอียดที่จะแสดงในแต่ล่ะรายการจากแหล่งข้อมูล(Data Source)
  - #### Group Header
  - #### Group Footer
  - #### Column Footer
