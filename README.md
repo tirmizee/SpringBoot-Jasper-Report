@@ -67,7 +67,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 | REPORT_URL_HANDLER_FACTORY |  |
 | REPORT_FILE_RESOLVER |  |
 | REPORT_TEMPLATES |  |
-| SORT_FIELDS |  |
+| SORT_FIELDS | ใช้เพื่อเรียงลำดับตามชื่อ Field ที่ระบุ สามาถเลือกการเรียงลำดับจากมากไปน้อยหรือน้อยไปมากได้ |
 | FILTER |  |
 | REPORT_VIRTUALIZER |  |
 | IS_IGNORE_PAGINATION |  |
