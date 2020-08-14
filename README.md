@@ -51,7 +51,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 | REPORT_VIRTUALIZER |  |
 | IS_IGNORE_PAGINATION |  |
 
-#### Image Expression
+#### Image Expression Type
 
 - java.lang.String 
 
@@ -64,6 +64,14 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 - java.awt.Image
 
 - net.sf.jasperreports.engine.JRRenderable
+
+#### Data Source Type
+
+- JDBC
+
+- Java Bean
+
+- XML, CSV, JSON 
 
 ### Example Filter
 
