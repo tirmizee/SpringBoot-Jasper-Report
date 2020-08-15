@@ -26,10 +26,11 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bands คือ Section การแสดงผลของ Report ประกอบไปด้วยดังนี้
 
  - #### Title
-         คือส่วนที่พิมพ์ขึ้นเพียงครั้งเดียวที่จุดเริ่มต้นของรายงาน และสามารถพิมพ์ในหน้าแยกต่างหากได้ โดยตั้งค่าแอตทริบิวต์ isTitleNewPage = "true"
+         คือส่วนที่พิมพ์ขึ้นเพียงครั้งเดียวที่จุดเริ่มต้นของรายงาน และสามารถพิมพ์ในหน้าแยกต่างหากได้ 
+         โดยตั้งค่าแอตทริบิวต์ isTitleNewPage = "true"
  - #### Page Header
-         คือส่วนหัวเรื่อง(Header)ที่แสดงในจุดเริ่มต้นของแต่ล่ะหน้า ไม่รวมกับ Title และ Summary หาก Report เรามี 10 หน้า มันก็จะแสดงส่วนหัวเรื่องทั้ง 10 หน้า 
-         isSummaryWithPageHeaderAndFooter="false"
+         คือส่วนหัวเรื่อง(Header)ที่แสดงในจุดเริ่มต้นของแต่ล่ะหน้า ไม่รวมกับ Title และ Summary หาก Report เรามี 10 หน้า 
+         มันก็จะแสดงส่วนหัวเรื่องทั้ง 10 หน้า isSummaryWithPageHeaderAndFooter="false"
  - #### Column Header
          คือส่วนหัวของคอลัมน์จะแสดงก่อนส่วนรายละเอียดในแต่ละหน้า
  - #### Detail
