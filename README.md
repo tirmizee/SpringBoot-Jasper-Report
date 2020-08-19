@@ -93,6 +93,9 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
       อ้างถึงพารามิเตอร์ชื่อ PARAM 
 
+- #### $X{}
+
+
 - #### $R{keyName}
 
       ดึงข้อความสตริง โดยใช้โดยใช้คีย์ keyName จาก Resource bundle ที่ส่งเข้ามา
