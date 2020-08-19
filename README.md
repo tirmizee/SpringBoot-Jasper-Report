@@ -75,7 +75,8 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 ### Expressions 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expressions เป็นคุณสมบัติหลักของ JasperReports เป็นกลไกที่ช่วยในการจัดการและแสดงข้อมูลรายงาน รวมถึงข้อมูลที่มีการคำนวณอีกด้วย
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Expressions เป็นคุณสมบัติหลักของ JasperReports เป็นกลไกที่ช่วยในการจัดการและแสดงข้อมูลรายงาน สามารถใช้เพื่อประกาศ
+ตัวแปรรายงานที่ทำการคำนวณต่างๆ การจัดกลุ่มข้อมูลในรายงาน การระบุเนื้อหาฟิลด์ข้อความในรายงาน หรือปรับแต่งลักษณะของออบเจ็กต์รายงานเพิ่มเติม
 
 - #### $F{FIELD}
 
