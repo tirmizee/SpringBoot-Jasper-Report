@@ -89,6 +89,8 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 #### Expression Syntax
 
+Expression จะไม่มีประโยชน์หากไม่มีการอ้างอิงถึง Parameter, Field หรือตัวแปรอื่นๆในรายงาน
+
 - #### $F{FIELD}
 
       อ้างถึงฟิลด์ชื่อ FIELD
