@@ -116,6 +116,8 @@ Expression จะไม่มีประโยชน์หากไม่มี
  
 #### Conditional Expressions
  
+ (condition) ? (statement if true) : (statement if false)
+ 
 #### Image Expression Type
 
 - java.lang.String 
