@@ -62,6 +62,8 @@ name attribute คือชื่อของ parameter เพื่อใช้
 
 class attribute คือชื่อ class ของ parameter หากไม่ระบุจะมีค่า defualt คือ <b>java.lang.String</b>
 
+การอ้างถึง Parameters ใน Expression ใช้เครื่องหมาย  $P{} ตามด้วยชื่อ parameter ดังนี้ $P{ParameterName} 
+
 ### Default Parameters
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; JasperReports มีพารามิเตอร์ในตัว (เป็นพารามิเตอร์ภายในของเครื่องมือสร้างรายงาน) ที่เราอาจอ่านได้เท่านั้นไม่สามารถแก้ไขได้ พารามิเตอร์ที่สำคัญที่สุดคือ "REPORT_CONNECTION" ซึ่งเก็บการเชื่อมต่อ JDBC
