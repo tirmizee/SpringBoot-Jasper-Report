@@ -51,7 +51,11 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 พารามิเตอร์คือตัวแปร Object ที่ถูกส่งเข้ามาเพื่อทำการแสดงข้อมูลในรายงาน ซึ่งสามารถประกาศได้ดังนี้
 
-    <parameter name = "ParameterName" class = "java.lang.String" />
+    <parameter name="ParameterName" class="java.lang.String" />
+    
+- #### name attribute
+
+- #### class  attribute
 
 ### Default Parameters
 
