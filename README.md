@@ -41,6 +41,7 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
          คือส่วนที่จะปรากฏด้านล่างส่วนรายละเอียด(Detail)ในแต่ละหน้า สามารถเปลี่ยนเป็นส่วนรายละเอียดสุดท้ายได้โดยการตั้งค่าแอตทริบิวต์
          isFloatColumnFooter="true"
  - #### Page Footer
+         คือส่วที่แสดงในจุดท้ายสุดของแต่ล่ะหน้า
  - #### Last Page Footer
  - #### Summary
  - #### Background
