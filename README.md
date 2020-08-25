@@ -56,7 +56,11 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
     
 - #### name attribute
 
+name คือชื่อของ parameter เพื่อใช้ในการอ้างถึง
+
 - #### class  attribute
+
+class คือชื่อ class ของ parameter หากไม่ระบุจะมีค่า defualt คือ <b>java.lang.String</b>
 
 ### Default Parameters
 
