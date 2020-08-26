@@ -62,7 +62,7 @@ name attribute คือชื่อของ parameter เพื่อใช้
 
 class attribute คือชื่อ class ของ parameter หากไม่ระบุจะมีค่า defualt คือ <b>java.lang.String</b>
 
-การอ้างถึง Parameters ใน Expression ใช้เครื่องหมาย  $P{} ตามด้วยชื่อ parameter ดังนี้ $P{ParameterName} 
+การอ้างถึง Parameters ใช้เครื่องหมาย  $P{} ตามด้วยชื่อ parameter ดังนี้ $P{ParameterName} 
 
 ### Default Parameters
 
