@@ -25,6 +25,10 @@ CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bands คือ Section การแสดงผลของ Report ประกอบไปด้วยดังนี้
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/91743149-92209800-ebe1-11ea-9bce-00e092d059a2.png" width="500">
+</p>
+
  - #### Title
          คือส่วนที่พิมพ์ขึ้นเพียงครั้งเดียวที่จุดเริ่มต้นของรายงาน และสามารถพิมพ์ในหน้าแยกต่างหากได้ 
          โดยตั้งค่าแอตทริบิวต์ isTitleNewPage = "true"
