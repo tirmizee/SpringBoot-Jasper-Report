@@ -7,7 +7,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ในการที่เราจะออกรายงานได้มีขั้นตอนต่างๆดังนี้
 
-![chapter2_1](https://user-images.githubusercontent.com/15135199/95425186-16e39c00-096e-11eb-9d12-17fa2726ce66.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/95425186-16e39c00-096e-11eb-9d12-17fa2726ce66.png" width="600">
+</p>
 
 CR : http://refermycode.com/jaspertutorial/chapter-2-life-cycle-of-jasper-report/
 
