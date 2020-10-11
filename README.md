@@ -1,5 +1,11 @@
 # SpringBoot-Jasper-Report
 
+### Lifecycle of JasperReports
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15135199/95425186-16e39c00-096e-11eb-9d12-17fa2726ce66.png" width="600">
+</p>
+
 ### Example 
 
 #### export report to image
