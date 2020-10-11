@@ -2,7 +2,7 @@
 
 ### Example 
 
-#### export to image
+#### export report to image
 
     ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
     BufferedImage bufferedImage  = (BufferedImage) JasperPrintManager.printPageToImage(jasperPrint, 0, 2.0f);
