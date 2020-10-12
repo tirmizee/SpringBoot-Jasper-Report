@@ -21,3 +21,14 @@
 #### export report to docx
 
 contentTypr : application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+		JasperPrint jasperPrint = ...;
+		ByteArrayOutputStream baos = new ByteArrayOutputStream(); 
+		
+		SimpleDocxReportConfiguration configuration = new SimpleDocxReportConfiguration();
+		
+		JRDocxExporter docxExporter = new JRDocxExporter();
+		docxExporter.setExporterInput(new SimpleExporterInput(jasperPrint));
+		docxExporter.setExporterOutput(new SimpleOutputStreamExporterOutput(baos));
+		docxExporter.setConfiguration(configuration);
+		docxExporter.exportReport();
