@@ -10,6 +10,8 @@
 
 #### export report to image
 
+contentType : image/png,image/jpg
+
     ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
     BufferedImage bufferedImage  = (BufferedImage) JasperPrintManager.printPageToImage(jasperPrint, 0, 2.0f);
     ImageIO.write(bufferedImage, "PNG", byteArrayOutputStream);   
@@ -20,7 +22,7 @@
 
 #### export report to docx
 
-contentTypr : application/vnd.openxmlformats-officedocument.wordprocessingml.document
+contentType : application/vnd.openxmlformats-officedocument.wordprocessingml.document
 
 		JasperPrint jasperPrint = ...;
 		ByteArrayOutputStream baos = new ByteArrayOutputStream(); 
