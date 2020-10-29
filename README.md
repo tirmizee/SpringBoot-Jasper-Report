@@ -34,3 +34,7 @@ contentType : application/vnd.openxmlformats-officedocument.wordprocessingml.doc
 		docxExporter.setExporterOutput(new SimpleOutputStreamExporterOutput(baos));
 		docxExporter.setConfiguration(configuration);
 		docxExporter.exportReport();
+
+### Reference
+
+- https://community.jaspersoft.com/questions/847259/jasperstudio-6-base64-image
