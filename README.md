@@ -38,3 +38,4 @@ contentType : application/vnd.openxmlformats-officedocument.wordprocessingml.doc
 ### Reference
 
 - https://community.jaspersoft.com/questions/847259/jasperstudio-6-base64-image
+- https://community.jaspersoft.com/wiki/custom-font-font-extension
